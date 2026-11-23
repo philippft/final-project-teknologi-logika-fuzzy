@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    image: fuzzy-pendidikan-jatim
+    container_name: fuzzy-pendidikan-jatim
+    ports:
+      - "8501:8501"
+    restart: unless-stopped
