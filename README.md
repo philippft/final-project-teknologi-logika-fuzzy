@@ -4,7 +4,7 @@
 
 A Streamlit web application that groups the 38 regencies and cities of East Java, Indonesia, by education quality. It combines **Principal Component Analysis (PCA)**, **Fuzzy C-Means (FCM)** clustering and a **Decision Tree** classifier. Each region gets a *degree of membership* in every cluster, so regions that sit between two groups ("transitional" regions) can be identified instead of being forced into a single group.
 
-> Final Project — Fuzzy Logic Technology (*Teknologi Logika Fuzzy*), Class D
+> Final Project — Fuzzy Logic Technology (*Teknologi Logika Fuzzy*), Class F
 > Informatics Study Program, Udayana University
 > Lecturer: Dr. Made Agung Raharja
 
